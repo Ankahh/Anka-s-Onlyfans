@@ -1,0 +1,92 @@
+body {
+    background-color: chocolate;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 80px;
+    border: solid black 14px;
+    background-color: #ff8f00;
+    margin-top: 1.5;
+    margin-right: 14cm;
+    margin-left: 14cm;
+    padding-bottom: 15px;
+    border-radius: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    padding-bottom: 15px; 
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 35px;
+    text-decoration-line: underline;
+    font-family: 'Segoe UI';
+    margin-top: 2cm;
+}
+
+.button1 {
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    background-color: #ff8f00;
+    border-radius: 20px;
+    border: solid black 5px;
+    padding: auto;
+}
+
+.button2 {
+    margin-top: 0.5cm;
+    margin-left: 23.8cm;
+    text-align: center;
+    display: block;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-style: italic;
+    background-color: #d65900;
+    border-radius: 10px;
+    border: solid black 3px;
+    padding: auto;
+}
+
+img {
+    width: 15%;
+    margin: auto;
+    display: block;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+.line {
+    border-bottom: 4px solid black;
+    margin-top: 1cm;
+    display: block;
+}
